@@ -1,0 +1,4 @@
+1;microdistri
+2;amazon
+3;ldlc
+4;cdiscount
